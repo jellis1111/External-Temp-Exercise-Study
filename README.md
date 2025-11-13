@@ -24,5 +24,4 @@ Purpose: To find the effects of external temperature on the increase of (male) b
 * **Statistical Finding:** There was no significant effect of external body heat on internal body heat during exercise at the $p<.05$ level across any period (pre, mid, or post-exercise). 
 * **Conclusion:** The largest temperature increase was found in temperatures around 70 degrees Fahrenheit, which disproved the hypothesis that the largest increase would be found in the cooler 60 degrees Fahrenheit group. 
 
-## Poster File
-[Link to PDF]
+
